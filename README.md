@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kamchettysadhika
-- 👀 I’m interested in ... Programming and development 
-- 🌱 I’m currently learning ... IT 1025
-- 💞️ I’m looking to collaborate on ... my assignments 
+- 👋 Hi, Sadhika Kamchetty
+- 👀 I’m interested in ... Programming and Development
+- 💞️ I’m looking to collaborate on ... App development and AI development
 - 📫 How to reach me ...on my email kamchettysadhika10@gmail.com
 
 <!---
