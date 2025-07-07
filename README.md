@@ -1,4 +1,4 @@
--  Hi, Sadhika Kamchetty
+-  Hi,  I am Sadhika Kamchetty
 -  I’m interested in ... Machine Learning and AI 
 -  I’m looking to collaborate on ... App development and AI development
 -  How to reach me ...on my email kamchettysadhika10@gmail.com
